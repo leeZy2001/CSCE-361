@@ -23,7 +23,8 @@ namespace IntroEmailApplication
 
         var mail = new MimeMessage();
 
-        mail.From.Add(new MailboxAddress("Zi Yang", "yangleev3@gmail.com")); // TODO: update to your own name and email address
+        //Added my name and email address
+        mail.From.Add(new MailboxAddress("Zi Yang Lee", "yangleev3@gmail.com")); // TODO: update to your own name and email address
 
                 Console.Write("To: ");
         mail.To.Add(new MailboxAddress("", Console.ReadLine()));
@@ -37,7 +38,8 @@ namespace IntroEmailApplication
         using (var client = new SmtpClient())
         {
           client.Connect("smtp.gmail.com", SmtpPort, IsSslConnection);
-                    client.Authenticate("yangleev3", "ivegdjnrvrfzuvca"); // TODO: update to your own username and APP PASSWORD (this is different from your normal password)
+          //Added my username and app password
+                    client.Authenticate("yangleev3@gmail.com", "ivegdjnrvrfzuvca"); // TODO: update to your own username and APP PASSWORD (this is different from your normal password)
                     client.Send(mail);
           client.Disconnect(true);
 
