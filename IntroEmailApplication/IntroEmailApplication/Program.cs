@@ -14,8 +14,6 @@ namespace IntroEmailApplication
 
       var loop = true;
 
-      try
-      {
       while (loop)
       {
         Console.WriteLine();
@@ -37,13 +35,20 @@ namespace IntroEmailApplication
 
         using (var client = new SmtpClient())
         {
-          client.Connect("smtp.gmail.com", SmtpPort, IsSslConnection);
-          //Added my username and app password
-                    client.Authenticate("yangleev3@gmail.com", "ivegdjnrvrfzuvca"); // TODO: update to your own username and APP PASSWORD (this is different from your normal password)
-                    client.Send(mail);
-          client.Disconnect(true);
+          try
+          {
+            client.Connect("smtp.gmail.com", SmtpPort, IsSslConnection);
+            //Added my username and app password
+                      client.Authenticate("yangleev3@gmail.com", "ivegdjnrvrfzuvca"); // TODO: update to your own username and APP PASSWORD (this is different from your normal password)
+                      client.Send(mail);
+            client.Disconnect(true);
 
-          Console.WriteLine("Message sent succesfully!");
+            Console.WriteLine("Message sent succesfully!");
+          }
+          catch (Exception ex)
+          {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+          }
         }
 
         Console.WriteLine();
@@ -53,11 +58,6 @@ namespace IntroEmailApplication
         {
           loop = false;
         }
-      }
-      }
-      catch (Exception ex)
-      {
-        Console.WriteLine("This is the ERROR!!!" + ex.Message);
       }
     }
   }
