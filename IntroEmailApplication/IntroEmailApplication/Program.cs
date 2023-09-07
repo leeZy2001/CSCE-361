@@ -39,7 +39,7 @@ namespace IntroEmailApplication
           {
             client.Connect("smtp.gmail.com", SmtpPort, IsSslConnection);
             //Added my username and app password
-                      client.Authenticate("yangleev3@gmail.com", "ivegdjnrvrfzuvca"); // TODO: update to your own username and APP PASSWORD (this is different from your normal password)
+                      client.Authenticate("yangleev3", "ivegdjnrvrfzuvca"); // TODO: update to your own username and APP PASSWORD (this is different from your normal password)
                       client.Send(mail);
             client.Disconnect(true);
 
