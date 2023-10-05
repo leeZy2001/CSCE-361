@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\IntroEmailApplication.csproj": {}
+    "C:\\Users\\leezy\\Desktop\\FirstReactAppWithC#\\FirstReactAppWithC#\\FirstReactAppWithC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\IntroEmailApplication.csproj": {
+    "C:\\Users\\leezy\\Desktop\\FirstReactAppWithC#\\FirstReactAppWithC#\\FirstReactAppWithC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\IntroEmailApplication.csproj",
-        "projectName": "IntroEmailApplication",
-        "projectPath": "C:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\IntroEmailApplication.csproj",
+        "projectUniqueName": "C:\\Users\\leezy\\Desktop\\FirstReactAppWithC#\\FirstReactAppWithC#\\FirstReactAppWithC#.csproj",
+        "projectName": "FirstReactAppWithC#",
+        "projectPath": "C:\\Users\\leezy\\Desktop\\FirstReactAppWithC#\\FirstReactAppWithC#\\FirstReactAppWithC#.csproj",
         "packagesPath": "C:\\Users\\leezy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\obj\\",
+        "outputPath": "C:\\Users\\leezy\\Desktop\\FirstReactAppWithC#\\FirstReactAppWithC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leezy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "MailKit": {
-              "target": "Package",
-              "version": "[4.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -57,6 +51,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

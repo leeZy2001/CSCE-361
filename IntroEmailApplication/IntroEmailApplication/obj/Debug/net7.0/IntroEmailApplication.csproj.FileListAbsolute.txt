@@ -19,3 +19,24 @@ c:\Users\leezy\Desktop\IntroEmailApplication\IntroEmailApplication\obj\Debug\net
 c:\Users\leezy\Desktop\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.pdb
 c:\Users\leezy\Desktop\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.genruntimeconfig.cache
 c:\Users\leezy\Desktop\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\ref\IntroEmailApplication.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\IntroEmailApplication.exe
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\IntroEmailApplication.deps.json
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\IntroEmailApplication.runtimeconfig.json
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\IntroEmailApplication.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\IntroEmailApplication.pdb
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\MailKit.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\MimeKit.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.csproj.AssemblyReference.cache
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.AssemblyInfoInputs.cache
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.AssemblyInfo.cs
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.csproj.CoreCompileInputs.cache
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.csproj.CopyComplete
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\refint\IntroEmailApplication.dll
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.pdb
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\IntroEmailApplication.genruntimeconfig.cache
+C:\Users\leezy\Desktop\CSCE 361\IntroEmailApplication\IntroEmailApplication\obj\Debug\net7.0\ref\IntroEmailApplication.dll

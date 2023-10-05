@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Do/lzv2tSqloqgh3jKrAYOM9vHgQQx8UV38aw6o/MGSrva3ov3FBh6lTBKy6qRL2ttSlwwgM61JXCKSfp6FGNA==",
+  "dgSpecHash": "Zf1/mYuu7YRfUIWN26yHyjVHn9E8aGMHgIFXciaS1hyKtoF61Sfs+sr+AKrBXPgYa/gOL23rueDIyUVXlFMr2Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\IntroEmailApplication.csproj",
+  "projectFilePath": "C:\\Users\\leezy\\Desktop\\CSCE 361\\IntroEmailApplication\\IntroEmailApplication\\IntroEmailApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leezy\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\leezy\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",
